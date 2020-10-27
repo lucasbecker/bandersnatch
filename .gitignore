@@ -1,0 +1,5 @@
+aseets/*
+assets/timeline/*
+!assets/timeline/.gitkeep
+
+bin/*.exe

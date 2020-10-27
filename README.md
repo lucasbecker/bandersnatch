@@ -5,14 +5,14 @@
 
 ## Lista de Títulos
 
-![titulos](./prints/titulos.png)
+![titulos](./.github/titulos.png)
 
 ## Vídeo
 
-![titulos](./prints/demo.png)
+![titulos](./.github/demo.png)
 
 ### Créditos
-
+- Workshop e skeleton do projeto de [Erick Wendel](https://github.com/ErickWendel/jsexpert01-skeleton-ew)
 - Layout da lista foi baseada no  codepen do [Carlos Avila
 ](https://codepen.io/cb2307/pen/XYxyeY)
 - Layout do video foi baseado no codepen do [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
