@@ -1,0 +1,23 @@
+{
+  "name": "bandersnatch",
+  "version": "1.0.0",
+  "description": "- Acesse o [index](./public/index/index.html) para visualizar a lista de titulos\r - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto",
+  "main": "index.js",
+  "scripts": {
+    "assets": "npx http-server --cors -p 8081 assets/",
+    "dev": "npx http-server --cors -p 8080 public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbecker/bandersnatch.git"
+  },
+  "author": "Lucas Becker Felisberto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasbecker/bandersnatch/issues"
+  },
+  "homepage": "https://github.com/lucasbecker/bandersnatch#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
