@@ -11,6 +11,13 @@
 
 ![titulos](./.github/demo.png)
 
+## Basic Control Loop
+1. Download dos arquivos do servidor 
+2. Fornecer os arquivos ao navegador 
+3. Calcular *throughput/duração* dos arquivos
+4. Entregar as informações sobre demanda conforme escolhas do usuário
+
+
 ### Créditos
 - Workshop e skeleton do projeto de [Erick Wendel](https://github.com/ErickWendel/jsexpert01-skeleton-ew)
 - Layout da lista foi baseada no  codepen do [Carlos Avila
